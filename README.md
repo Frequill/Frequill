@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Frequill 
 - 👀 I’m interested in ... Gaming, programming, hard rock and heavy metal, baby!
-- 🌱 I’m currently learning ... Systemdevelopement and Java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... Quarkus, Redis, Kafka, how to use Linux without destroying the whole world, Docker, Redis, a bit of C++ ETC
 - 📫 How to reach me ... Pray to Thor, son of Odyn
 
 <!---
